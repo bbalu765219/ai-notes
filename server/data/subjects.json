@@ -1,0 +1,130 @@
+[
+  {
+    "id": "sub_1",
+    "name": "Data Structures & Algorithms",
+    "code": "CS301",
+    "branch": "CSE",
+    "semester": "Semester 3",
+    "credits": 4
+  },
+  {
+    "id": "sub_2",
+    "name": "Database Management Systems",
+    "code": "CS402",
+    "branch": "CSE",
+    "semester": "Semester 4",
+    "credits": 4
+  },
+  {
+    "id": "sub_3",
+    "name": "Operating Systems",
+    "code": "CS403",
+    "branch": "CSE",
+    "semester": "Semester 4",
+    "credits": 3
+  },
+  {
+    "id": "sub_4",
+    "name": "Artificial Intelligence & Machine Learning",
+    "code": "CS601",
+    "branch": "CSE",
+    "semester": "Semester 6",
+    "credits": 4
+  },
+  {
+    "id": "sub_5",
+    "name": "Cloud Computing & DevOps",
+    "code": "IT502",
+    "branch": "IT",
+    "semester": "Semester 5",
+    "credits": 3
+  },
+  {
+    "id": "sub_6",
+    "name": "Web Technologies & Full Stack",
+    "code": "IT401",
+    "branch": "IT",
+    "semester": "Semester 4",
+    "credits": 4
+  },
+  {
+    "id": "sub_7",
+    "name": "Power Systems Analysis",
+    "code": "EE501",
+    "branch": "EEE",
+    "semester": "Semester 5",
+    "credits": 4
+  },
+  {
+    "id": "sub_8",
+    "name": "Electrical Machines & Transformers",
+    "code": "EE302",
+    "branch": "EEE",
+    "semester": "Semester 3",
+    "credits": 4
+  },
+  {
+    "id": "sub_9",
+    "name": "Digital Signal Processing (DSP)",
+    "code": "EC501",
+    "branch": "ECE",
+    "semester": "Semester 5",
+    "credits": 4
+  },
+  {
+    "id": "sub_10",
+    "name": "VLSI Design & Embedded Systems",
+    "code": "EC602",
+    "branch": "ECE",
+    "semester": "Semester 6",
+    "credits": 4
+  },
+  {
+    "id": "sub_11",
+    "name": "Thermodynamics & Heat Transfer",
+    "code": "ME301",
+    "branch": "Mechanical",
+    "semester": "Semester 3",
+    "credits": 4
+  },
+  {
+    "id": "sub_12",
+    "name": "Fluid Mechanics & Hydraulic Machinery",
+    "code": "ME402",
+    "branch": "Mechanical",
+    "semester": "Semester 4",
+    "credits": 3
+  },
+  {
+    "id": "sub_13",
+    "name": "Structural Engineering & RCC",
+    "code": "CE501",
+    "branch": "Civil",
+    "semester": "Semester 5",
+    "credits": 4
+  },
+  {
+    "id": "sub_14",
+    "name": "Surveying & Geomatics",
+    "code": "CE302",
+    "branch": "Civil",
+    "semester": "Semester 3",
+    "credits": 3
+  },
+  {
+    "id": "sub_15",
+    "name": "Applied Mathematics & Engineering Physics",
+    "code": "DIP101",
+    "branch": "Diploma",
+    "semester": "Semester 1",
+    "credits": 3
+  },
+  {
+    "id": "sub_16",
+    "name": "Fundamentals of C Programming",
+    "code": "DIP201",
+    "branch": "Diploma",
+    "semester": "Semester 2",
+    "credits": 3
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "usr_admin",
+    "name": "Head Administrator",
+    "email": "admin@noteshub.com",
+    "password": "$2a$10$Bo1v79CDxCWLnLiJngmXzu8bdOUOaXZ0NOS8RgURt/euMBCSwMnUa",
+    "role": "admin",
+    "branch": "CSE",
+    "year": "Faculty/Admin",
+    "college": "State Technical University",
+    "createdAt": "2026-10-14T05:42:20.245Z"
+  },
+  {
+    "id": "usr_student1",
+    "name": "Rahul Sharma",
+    "email": "student@college.edu",
+    "password": "$2a$10$sdMmaPTU3Q37t135kEApGe2Ct16ezCUiIZz363IXt8nXDIvZQt2Ye",
+    "role": "student",
+    "branch": "CSE",
+    "year": "3rd Year",
+    "college": "Government Engineering College",
+    "createdAt": "2026-10-14T05:42:20.246Z"
+  }
+]
